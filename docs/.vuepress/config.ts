@@ -21,9 +21,11 @@ export default defineUserConfig({
     logo: '/images/TransportForAthens_logo_favicon.png',
     locales: {
       '/': {
+        selectLanguageText: 'Language',
         selectLanguageName: 'Ελληνικά',
       },
       '/en/': {
+        selectLanguageText: 'Γλώσσα',
         selectLanguageName: 'English',
       },
     },
