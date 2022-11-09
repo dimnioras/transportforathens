@@ -1,0 +1,37 @@
+{
+  "name": "transportforathens.org",
+  "version": "0.1.0",
+  "description": "Website for the Transport for Athens project",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/dimnioras/transportforathens.org.git"
+  },
+  "keywords": [
+    "public",
+    "transport",
+    "public",
+    "transportation",
+    "research",
+    "Athens",
+    "network",
+    "design"
+  ],
+  "author": "Dimitris Nioras",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://gitlab.com/dimnioras/transportforathens.org/issues"
+  },
+  "homepage": "https://gitlab.com/dimnioras/transportforathens.org#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  }
+}
