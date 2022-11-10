@@ -1,0 +1,32 @@
+site_name: Transport for Athens
+site_url: https://transportforathens.org/
+nav:
+  - Αρχική: index.md
+theme:
+  name: material
+  language: el
+  logo: assets/TransportForAthens_logo_navbar.png
+  favicon: assets/TransportForAthens_logo_favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+extra:
+  alternate:
+    - name: Ελληνικά
+      link: /
+      lang: el
+    - name: English
+      link: /en/
+      lang: en
+extra_css:
+  - stylesheets/extra.css
+plugins:
+  - search
