@@ -1,6 +1,6 @@
 site_name: Transport for Athens
 docs_dir: '../../docs/en'
-site_dir: '../../generated/en'
+site_dir: '../../public/en'
 site_url: https://transportforathens.gitlab.io/en/
 nav:
   - Home: index.md

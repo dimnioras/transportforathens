@@ -9,7 +9,7 @@ pages:
     - mkdocs build -f config/el/mkdocs.yml
   artifacts:
     paths:
-    - generated
+    - public
   ## Uncomment the following section if you want to run this step under master branch only.
-  # only:
-  # - master 
+  only:
+   - main 
