@@ -1,0 +1,15 @@
+image: python:3.11-bullseye ## MkDocs requies python.
+
+pages:
+  stage: deploy ## tell GitLab to deploy the website in this step.
+  before_script:
+    - pip install -r requirements.txt
+  script:
+    - mkdocs build -f config/en/mkdocs.yml
+    - mkdocs build -f config/el/mkdocs.yml
+  artifacts:
+    paths:
+    - generated
+  ## Uncomment the following section if you want to run this step under master branch only.
+  # only:
+  # - master 
