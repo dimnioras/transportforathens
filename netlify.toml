@@ -1,0 +1,3 @@
+[build]
+  command = "mkdocs build -f config/en/mkdocs.yml && mkdocs build -f config/el/mkdocs.yml"
+  publish = "site"

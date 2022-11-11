@@ -1,6 +1,6 @@
 site_name: Transport for Athens
 docs_dir: '../../docs/el'
-site_dir: '../../public/el'
+site_dir: '../../site/el'
 site_url: https://transportforathens.org/el/
 nav:
   - Αρχική: index.md
