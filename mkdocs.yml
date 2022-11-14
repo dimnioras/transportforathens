@@ -1,7 +1,10 @@
 site_name: Transport for Athens
-site_url: https://transportforathens.org/
+site_url: https://www.transportforathens.org/
 nav:
   - Αρχική: index.md
+  - Μελέτες:
+      - Λίστα Μελετών: studies/index.md
+      - 'Επέκταση γραμμής 3 Μετρό προς Πειραιά: Αγ. Βαρβάρα, Κορυδαλλός, Νίκαια, Κερατσίνι, Δραπετσώνα': studies/202211_01_Piraeus/index.md
 theme:
   name: material
   language: el
@@ -25,6 +28,7 @@ extra_css:
   - assets/stylesheets/extra.css
 plugins:
   - search
+  - social
 extra:
   social:
     - icon: fontawesome/brands/facebook

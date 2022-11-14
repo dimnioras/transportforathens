@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://transportforathens.org/</loc>
-         <lastmod>2022-11-12</lastmod>
+         <loc>https://www.transportforathens.org/</loc>
+         <lastmod>2022-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.transportforathens.org/studies/</loc>
+         <lastmod>2022-11-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.transportforathens.org/studies/202211_01_Piraeus/</loc>
+         <lastmod>2022-11-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
