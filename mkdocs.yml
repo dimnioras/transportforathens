@@ -28,7 +28,9 @@ extra_css:
   - assets/stylesheets/extra.css
 plugins:
   - search
-  - social
+  - social:
+      cards_color:
+        fill: '#004a87'
 extra:
   social:
     - icon: fontawesome/brands/facebook
