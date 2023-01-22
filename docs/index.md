@@ -14,4 +14,4 @@
 
 ## Επικοινωνία
 
-Για οποιοδήποτε σχόλιο ή ερώτηση μπορείτε να επικοινωνήσετε μέσω της σελίδας [Transport For Athens]([Facebook](https://www.facebook.com/transportforathens.org)) στο Facebook.
+Για οποιοδήποτε σχόλιο ή ερώτηση μπορείτε να επικοινωνήσετε μέσω της σελίδας [Transport For Athens](https://www.facebook.com/transportforathens.org) στο Facebook.
